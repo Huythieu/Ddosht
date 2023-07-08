@@ -45,3 +45,8 @@ python3 setup.py
 ## hướng dẫn sử dụng
 ```sh
 python main.py
+```
+```sh
+help
+layer7
+cfb
