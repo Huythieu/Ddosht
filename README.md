@@ -44,9 +44,16 @@ python3 setup.py
 
 ## hướng dẫn sử dụng
 ```sh
+cd ddosht
+```sh
 python main.py
 ```
 ```sh
 help
+```sh
 layer7
+```sh
 cfb
+```sh
+url nhập link web cần ddos vd: https://huydznhat.com
+ther
