@@ -45,16 +45,25 @@ python3 setup.py
 ## hướng dẫn sử dụng
 ```sh
 cd ddosht
+```
+
 ```sh
 python main.py
 ```
+
 ```sh
 help
+```
+
 ```sh
 layer7
+```
+
 ```sh
 cfb
+```
 ```sh
 URL nhập link web cần ddos vd: https://huydznhat.com
 THREAD : ae để bao nhiêu cũng đc miễn máy khỏe ae nên để 10000
 TIME: thời gian tính bằng giây để bao nhiêu cũng đc
+```
