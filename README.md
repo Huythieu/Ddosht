@@ -55,5 +55,6 @@ layer7
 ```sh
 cfb
 ```sh
-url nhập link web cần ddos vd: https://huydznhat.com
-ther
+URL nhập link web cần ddos vd: https://huydznhat.com
+THREAD : ae để bao nhiêu cũng đc miễn máy khỏe ae nên để 10000
+TIME: thời gian tính bằng giây để bao nhiêu cũng đc
